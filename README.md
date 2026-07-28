@@ -16,4 +16,4 @@ A Streamlit web application that analyzes password strength and provides securit
 - Streamlit
 
   ##link
-  https://sl1nk.com/5ouy27i
+  https://tinyurl.com/4p58wxv4
